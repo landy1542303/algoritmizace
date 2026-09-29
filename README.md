@@ -1,0 +1,2 @@
+# algoritmizace
+Algoritmizace - první semestr
